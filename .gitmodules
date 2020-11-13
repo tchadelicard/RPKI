@@ -1,0 +1,6 @@
+[submodule "krill-pub"]
+	path = krill-pub
+	url = https://github.com/NLnetLabs/krill
+[submodule "krill-ca"]
+	path = krill-ca
+	url = https://github.com/NLnetLabs/krill
